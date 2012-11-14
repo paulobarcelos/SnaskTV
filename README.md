@@ -1,2 +1,2 @@
-#SnaskTV installation
-SnaskTV is an installation for lauching the book [Make Enemies and Gain Friends](http://snask.com/about-us/#/make-enemies-2/) by the Swedish design, branding & film agency [Snask](http://snask.com).
+#SnaskTV
+SnaskTV is a shop window installation for [Make Enemies and Gain Friends](http://snask.com/about-us/#/make-enemies-2/), a book by the Swedish design, branding & film agency [Snask](http://snask.com).
