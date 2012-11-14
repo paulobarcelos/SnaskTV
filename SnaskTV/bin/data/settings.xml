@@ -1,0 +1,18 @@
+<output>
+	<x>0</x>
+	<y>0</y>
+	<width>150</width>
+	<height>400</height>
+</output>
+<output>
+	<x>150</x>
+	<y>0</y>
+	<width>400</width>
+	<height>150</height>
+</output>
+<output>
+	<x>550</x>
+	<y>0</y>
+	<width>400</width>
+	<height>150</height>
+</output>

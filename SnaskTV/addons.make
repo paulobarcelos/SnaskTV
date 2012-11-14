@@ -3,4 +3,5 @@ ofxGui
 ofxModifierKeys
 ofxOpenCv
 ofxTimeMeasurements
+ofxWarpBlendTool
 ofxXmlSettings
