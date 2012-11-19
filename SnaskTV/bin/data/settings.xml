@@ -1,18 +1,18 @@
 <output>
 	<x>0</x>
 	<y>0</y>
-	<width>150</width>
-	<height>400</height>
+	<width>480</width>
+	<height>700</height>
 </output>
 <output>
-	<x>150</x>
+	<x>500</x>
 	<y>0</y>
-	<width>400</width>
-	<height>150</height>
+	<width>866</width>
+	<height>540</height>
 </output>
 <output>
-	<x>550</x>
+	<x>1454</x>
 	<y>0</y>
-	<width>400</width>
-	<height>150</height>
+	<width>866</width>
+	<height>540</height>
 </output>
