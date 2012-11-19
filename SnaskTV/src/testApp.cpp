@@ -3,7 +3,9 @@
 //--------------------------------------------------------------
 void testApp::setup(){
 	ofSetVerticalSync(true);
-	ofSetFullscreen(true);
+    fullscreen = true;
+	ofSetFullscreen(fullscreen);
+    ofHideCursor();
     ofEnableAlphaBlending();
     ofBackground(0, 0, 0);
     
@@ -94,7 +96,11 @@ void testApp::keyPressed(int key){
 			currentOutput = -1;
 			break;
 		case ' ':
-			ofToggleFullscreen();
+			fullscreen = !fullscreen;
+            ofSetFullscreen(fullscreen);
+            if(fullscreen)ofHideCursor();
+            else ofShowCursor();
+            
 			break;
 	}
 }

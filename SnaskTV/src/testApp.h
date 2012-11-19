@@ -24,5 +24,6 @@ class testApp : public ofBaseApp{
 	ofVideoPlayer player;
 	vector<ofxWarpBlendTool::Controller* > outputs;
 	int currentOutput;
+    bool fullscreen;
 		
 };
